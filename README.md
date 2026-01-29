@@ -50,3 +50,7 @@ Streamer list configuration. See existing file for format.
 ## Credits
 
 Streamer list data from: [抽象赛道网](http://175.178.29.106/)
+
+## License
+
+[WTFPL](LICENSE)

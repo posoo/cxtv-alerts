@@ -405,6 +405,30 @@ header h1 {
     justify-content: space-between;
 }
 
+/* Footer */
+.site-footer {
+    margin-top: 3rem;
+    padding: 1.5rem;
+    text-align: center;
+    border-top: 1px solid var(--border);
+    color: var(--text-secondary);
+    font-size: 0.8rem;
+}
+
+.site-footer .disclaimer {
+    margin-bottom: 0.5rem;
+    opacity: 0.8;
+}
+
+.site-footer .open-source a {
+    color: var(--accent);
+    text-decoration: none;
+}
+
+.site-footer .open-source a:hover {
+    text-decoration: underline;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
     .container {
