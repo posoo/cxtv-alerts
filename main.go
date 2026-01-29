@@ -11,6 +11,8 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
+const Version = "1.0.1" // Increment this when updating JS/CSS files
+
 func main() {
 	// Ensure data directory exists
 	if err := os.MkdirAll("data", 0755); err != nil {
@@ -40,9 +42,18 @@ func main() {
 	gin.SetMode(gin.ReleaseMode)
 	r := gin.Default()
 
+	// Load HTML templates
+	r.LoadHTMLGlob("web/*.html")
+
 	// Serve static files
 	r.Static("/static", "./web")
-	r.StaticFile("/", "./web/index.html")
+
+	// Serve index with version for cache busting
+	r.GET("/", func(c *gin.Context) {
+		c.HTML(200, "index.html", gin.H{
+			"Version": Version,
+		})
+	})
 
 	// Register API routes
 	h := handler.New(svc)
