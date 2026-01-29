@@ -1,0 +1,11 @@
+services:
+  cxtv-alerts:
+    image: ghcr.io/posoo/cxtv-alerts:latest
+    container_name: cxtv-alerts
+    restart: unless-stopped
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./config:/app/config
+      - ./data:/app/data
+      - ./avatars:/app/web/avatars

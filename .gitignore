@@ -3,6 +3,7 @@ cxtv-alerts
 
 # Database
 *.db
+data/
 
 # IDE
 .idea/

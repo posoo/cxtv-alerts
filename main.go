@@ -2,6 +2,7 @@ package main
 
 import (
 	"log"
+	"os"
 
 	"cxtv-alerts/internal/database"
 	"cxtv-alerts/internal/handler"
@@ -11,8 +12,13 @@ import (
 )
 
 func main() {
+	// Ensure data directory exists
+	if err := os.MkdirAll("data", 0755); err != nil {
+		log.Fatalf("Failed to create data directory: %v", err)
+	}
+
 	// Initialize database
-	db, err := database.New("data.db")
+	db, err := database.New("data/data.db")
 	if err != nil {
 		log.Fatalf("Failed to initialize database: %v", err)
 	}

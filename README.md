@@ -25,6 +25,32 @@ go build -o cxtv-alerts .
 
 Visit http://localhost:8080
 
+## Docker Deployment
+
+```bash
+# Create directories for persistent data
+mkdir -p config data avatars
+
+# Copy config files (edit as needed)
+curl -o config/settings.json https://raw.githubusercontent.com/posoo/cxtv-alerts/main/config/settings.json
+curl -o config/streamers.json https://raw.githubusercontent.com/posoo/cxtv-alerts/main/config/streamers.json
+
+# Run with docker-compose
+docker-compose up -d
+```
+
+Or run directly with Docker:
+
+```bash
+docker run -d \
+  --name cxtv-alerts \
+  -p 8080:8080 \
+  -v ./config:/app/config \
+  -v ./data:/app/data \
+  -v ./avatars:/app/web/avatars \
+  ghcr.io/posoo/cxtv-alerts:latest
+```
+
 ## Configuration
 
 ### `config/settings.json`
@@ -43,7 +69,7 @@ Streamer list configuration. See existing file for format.
 
 ## TODO
 
-- [ ] Docker deployment
+- [x] Docker deployment
 - [ ] Notification integration (Telegram, Discord, etc.)
 - [ ] Distributed crawling triggered by visitors
 
