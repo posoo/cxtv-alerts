@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>抽象赛道⏰</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>抽象赛道⏰</h1>
+            <p class="subtitle">实时监控主播开播状态</p>
+        </header>
+
+        <div class="stats-bar">
+            <span class="stat">
+                <span class="stat-value" id="totalCount">0</span>
+                <span class="stat-label">主播总数</span>
+            </span>
+            <span class="stat">
+                <span class="stat-value live" id="liveCount">0</span>
+                <span class="stat-label">正在直播</span>
+            </span>
+            <span class="stat">
+                <span class="stat-value" id="lastUpdate">--:--:--</span>
+                <span class="stat-label">上次更新</span>
+            </span>
+        </div>
+
+        <div class="streamers-grid" id="streamersGrid">
+            <div class="loading">加载中...</div>
+        </div>
+    </div>
+
+    <!-- Stats Modal -->
+    <div class="modal" id="statsModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modalTitle">主播统计</h2>
+                <button class="close-btn" onclick="closeModal()">&times;</button>
+            </div>
+            <div class="modal-body" id="modalBody">
+                <!-- Stats content will be loaded here -->
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/app.js"></script>
+</body>
+</html>

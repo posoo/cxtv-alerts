@@ -1,0 +1,22 @@
+# Binary
+cxtv-alerts
+
+# Database
+*.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Downloaded avatars (regenerated on startup)
+web/avatars/*.jpg
+web/avatars/*.jpeg
+web/avatars/*.png
+web/avatars/*.gif
+web/avatars/*.webp

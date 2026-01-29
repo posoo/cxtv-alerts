@@ -1,0 +1,428 @@
+{
+  "streamers": [
+    {
+      "id": "douyin_82",
+      "name": "事事顺利",
+      "platform": "douyin",
+      "room_id": "MS4wLjABAAAAO6jdlMRKTeMWW109toL_W7xwiAgYKtLWJ3QC_j-wmLE",
+      "avatar": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_f190bbe4e65018618f06ac52fb8b654e~c5_300x300.jpeg?from=2956013662",
+      "live_url": "https://www.douyin.com/user/MS4wLjABAAAAO6jdlMRKTeMWW109toL_W7xwiAgYKtLWJ3QC_j-wmLE"
+    },
+    {
+      "id": "douyin_360",
+      "name": "李逍遥",
+      "platform": "douyin",
+      "room_id": "MS4wLjABAAAAasRk3jUEe74KeLv_bIpyH1aZ75dPNK9XJ609_L_ue78",
+      "avatar": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_aa8a817c59bf0dfd00e1f096c13a126c~c5_300x300.jpeg?from=2956013662",
+      "live_url": "https://www.douyin.com/user/MS4wLjABAAAAasRk3jUEe74KeLv_bIpyH1aZ75dPNK9XJ609_L_ue78"
+    },
+    {
+      "id": "douyin_475",
+      "name": "Tt..",
+      "platform": "douyin",
+      "room_id": "MS4wLjABAAAAzvXUulzc3_eNHE8Dan4R_wIJagr7gav_vSyfuE1aKMd3pSzWvgXW_rNj6N2pPM4V",
+      "avatar": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_f1b69c185e314e88be0c899f681c33ee~c5_300x300.jpeg?from=2956013662",
+      "live_url": "https://www.douyin.com/user/MS4wLjABAAAAzvXUulzc3_eNHE8Dan4R_wIJagr7gav_vSyfuE1aKMd3pSzWvgXW_rNj6N2pPM4V"
+    },
+    {
+      "id": "douyin_239",
+      "name": "在花",
+      "platform": "douyin",
+      "room_id": "MS4wLjABAAAAawhegrNogrRsEUpmiDSO9CTwaYzJ_5j1WS4LqLr4ZwyE7WNqiZBVi0OrPUhJORTC",
+      "avatar": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_93fddfd1c89f131580c0e7ca7da71515~c5_300x300.jpeg?from=2956013662",
+      "live_url": "https://www.douyin.com/user/MS4wLjABAAAAawhegrNogrRsEUpmiDSO9CTwaYzJ_5j1WS4LqLr4ZwyE7WNqiZBVi0OrPUhJORTC"
+    },
+    {
+      "id": "douyin_555",
+      "name": "黑色立群",
+      "platform": "douyin",
+      "room_id": "MS4wLjABAAAAmUdLlo_CUJzG-a2GOX4KWXlSGO8J6VMfrzIEiZywcg0G2hZv4TYQveibWbIXLCeL",
+      "avatar": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_6b612a6145e1b0383a16e3c1595b783d~c5_300x300.jpeg?from=2956013662",
+      "live_url": "https://www.douyin.com/user/MS4wLjABAAAAmUdLlo_CUJzG-a2GOX4KWXlSGO8J6VMfrzIEiZywcg0G2hZv4TYQveibWbIXLCeL"
+    },
+    {
+      "id": "douyin_356",
+      "name": "一天肿一包火鸡面",
+      "platform": "douyin",
+      "room_id": "MS4wLjABAAAAZAq8-NPmmWcgsHfCAPEfF9cofbWjDO6JnBv3LQJAixE",
+      "avatar": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_9f8e0bf8ae4e38742cfa280eccc4173f~c5_300x300.jpeg?from=2956013662",
+      "live_url": "https://www.douyin.com/user/MS4wLjABAAAAZAq8-NPmmWcgsHfCAPEfF9cofbWjDO6JnBv3LQJAixE"
+    },
+    {
+      "id": "douyin_84",
+      "name": "Twotwo",
+      "platform": "douyin",
+      "room_id": "MS4wLjABAAAAK_IiZbWWOjQvIEsAa-FK9cR_KQHw9xZqX8k-0tRJywVb6ij1Py9f0Nu84gyhMei1",
+      "avatar": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_6d15df55879d40d6ed4fbbfb00360335~c5_300x300.jpeg?from=2956013662",
+      "live_url": "https://www.douyin.com/user/MS4wLjABAAAAK_IiZbWWOjQvIEsAa-FK9cR_KQHw9xZqX8k-0tRJywVb6ij1Py9f0Nu84gyhMei1"
+    },
+    {
+      "id": "bilibili_556",
+      "name": "热心胖哥骑行",
+      "platform": "bilibili",
+      "room_id": "7713984",
+      "avatar": "https://i1.hdslb.com/bfs/face/d47adff8e84eb9f3e2e99f78fa1114e3e4c04570.jpg",
+      "live_url": "https://live.bilibili.com/7713984"
+    },
+    {
+      "id": "weibo_577",
+      "name": "高地蓝猫",
+      "platform": "weibo",
+      "room_id": "5841690305",
+      "avatar": "http://175.178.29.106/weibo/proxy/crop.0.0.856.856.180/006nl8vnly8i8ko5rzn46j30ns0nsdhk.jpg?KID=imgbed,tva&Expires=1768286003&ssig=DXbfaHUEWy",
+      "live_url": "http://175.178.29.106/player.html?uid=5841690305"
+    },
+    {
+      "id": "douyin_557",
+      "name": "谎话连篇李逍遥",
+      "platform": "douyin",
+      "room_id": "MS4wLjABAAAATHpeuw7c-wmIG-oOlSHt2tWqi-KPN9NEf1Hb5PQQ1DMzI73r2X9aKBV9c9SgIdhv",
+      "avatar": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_4081b554b97cea4b7d6c3f915b0e16b3~c5_300x300.jpeg?from=2956013662",
+      "live_url": "https://www.douyin.com/user/MS4wLjABAAAATHpeuw7c-wmIG-oOlSHt2tWqi-KPN9NEf1Hb5PQQ1DMzI73r2X9aKBV9c9SgIdhv"
+    },
+    {
+      "id": "bilibili_566",
+      "name": "石林爱打斧",
+      "platform": "bilibili",
+      "room_id": "24869421",
+      "avatar": "https://i1.hdslb.com/bfs/face/c7b8b06b427fe247c76b93584b397126e8327811.jpg",
+      "live_url": "https://live.bilibili.com/24869421"
+    },
+    {
+      "id": "bilibili_571",
+      "name": "菲尔道斯1",
+      "platform": "bilibili",
+      "room_id": "1713824692",
+      "avatar": "https://i0.hdslb.com/bfs/face/member/noface.jpg",
+      "live_url": "https://live.bilibili.com/1713824692"
+    },
+    {
+      "id": "douyin_353",
+      "name": "我想去走走",
+      "platform": "douyin",
+      "room_id": "MS4wLjABAAAAIkbSVqgNYhh4BL_gnxrG10OpJkmuuaqoSGKczMUtDgU",
+      "avatar": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_6afff8492ace59fa6cc34effc78a7755~c5_300x300.jpeg?from=2956013662",
+      "live_url": "https://www.douyin.com/user/MS4wLjABAAAAIkbSVqgNYhh4BL_gnxrG10OpJkmuuaqoSGKczMUtDgU"
+    },
+    {
+      "id": "douyin_581",
+      "name": "儒雅散士唐有才",
+      "platform": "douyin",
+      "room_id": "MS4wLjABAAAAt-Hc0c_pgFl0VX1d8I65aakFpUSzG-_D5ua4QMTk1D4J4sPUp-xSco7Uhh0GUTgE",
+      "avatar": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_edfecae54992e616f00741e721cc922c~c5_300x300.jpeg?from=2956013662",
+      "live_url": "https://www.douyin.com/user/MS4wLjABAAAAt-Hc0c_pgFl0VX1d8I65aakFpUSzG-_D5ua4QMTk1D4J4sPUp-xSco7Uhh0GUTgE"
+    },
+    {
+      "id": "douyin_558",
+      "name": "3392",
+      "platform": "douyin",
+      "room_id": "MS4wLjABAAAAOHX_fOnm_IZEy8CW2KANdVJO6mTwKPnGbLhENPcHSTzoW6Gwg4TELgEBCIj0-OB7",
+      "avatar": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_ec17e5310f30892b14dfa3b0bb4d852c~c5_300x300.jpeg?from=2956013662",
+      "live_url": "https://www.douyin.com/user/MS4wLjABAAAAOHX_fOnm_IZEy8CW2KANdVJO6mTwKPnGbLhENPcHSTzoW6Gwg4TELgEBCIj0-OB7"
+    },
+    {
+      "id": "douyin_296",
+      "name": "释我呀",
+      "platform": "douyin",
+      "room_id": "MS4wLjABAAAAXTA-AxU-KlWsRJKo6wJ0MmQfJTFh3_wJreNABDhe0RM9L9L8LP0En6r5y8zG-9-R",
+      "avatar": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_00ee9731b12e8906054a81034eea31f2~c5_300x300.jpeg?from=2956013662",
+      "live_url": "https://www.douyin.com/user/MS4wLjABAAAAXTA-AxU-KlWsRJKo6wJ0MmQfJTFh3_wJreNABDhe0RM9L9L8LP0En6r5y8zG-9-R"
+    },
+    {
+      "id": "weibo_57",
+      "name": "贝爷人称小牙经",
+      "platform": "weibo",
+      "room_id": "6310707619",
+      "avatar": "http://175.178.29.106/weibo/proxy/crop.0.0.664.664.180/006T55kLly8g1zc0cc7ksj30ig0igglj.jpg?KID=imgbed,tva&Expires=1768665083&ssig=vxKDmpE%2FW7",
+      "live_url": "http://175.178.29.106/player.html?uid=6310707619"
+    },
+    {
+      "id": "bilibili_580",
+      "name": "攀枝花种芒果的野人",
+      "platform": "bilibili",
+      "room_id": "1746705024",
+      "avatar": "https://i0.hdslb.com/bfs/face/fdad0088ff1a324453bee1a2a747d3b5fa75a482.jpg",
+      "live_url": "https://live.bilibili.com/1746705024"
+    },
+    {
+      "id": "kuaishou_584",
+      "name": "阿波寄居金字塔🇪🇬",
+      "platform": "kuaishou",
+      "room_id": "3xu5siisx8tk4ce",
+      "avatar": "https://p2-pro.a.yximgs.com/uhead/AB/2025/12/21/20/BMjAyNTEyMjEyMDMxMDhfNTIxMDA5NDYyM18xX2hkODg1XzUyOQ==_s.jpg",
+      "live_url": "https://live.kuaishou.com/u/3xu5siisx8tk4ce"
+    },
+    {
+      "id": "kuaishou_590",
+      "name": "阿春加油努力",
+      "platform": "kuaishou",
+      "room_id": "3xy3h8n8gj4axge",
+      "avatar": "https://p2-pro.a.yximgs.com/uhead/AB/2026/01/22/18/BMjAyNjAxMjIxODMxNTVfNTEwMzIxNzI3Nl8yX2hkOTJfMTA5_s.jpg",
+      "live_url": "https://live.kuaishou.com/u/3xy3h8n8gj4axge"
+    },
+    {
+      "id": "kuaishou_587",
+      "name": "攀枝花石次郎",
+      "platform": "kuaishou",
+      "room_id": "3xgc2hat5iyb9fw",
+      "avatar": "https://p2-pro.a.yximgs.com/uhead/AB/2025/12/16/20/BMjAyNTEyMTYyMDAxMzdfMTc1MDU5NzQ5Nl8xX2hkMTk4XzczOA==_s.jpg",
+      "live_url": "https://live.kuaishou.com/u/3xgc2hat5iyb9fw"
+    },
+    {
+      "id": "kuaishou_583",
+      "name": "suffer",
+      "platform": "kuaishou",
+      "room_id": "3xqda9abgvfdiwg",
+      "avatar": "https://p4-pro.a.yximgs.com/uhead/AB/2025/02/18/20/BMjAyNTAyMTgyMDQ4MzlfNDYzODc1NjI5Ml8xX2hkMTZfNjUx_s.jpg",
+      "live_url": "https://live.kuaishou.com/u/3xqda9abgvfdiwg"
+    },
+    {
+      "id": "kuaishou_585",
+      "name": "暴力s劲酒代言人",
+      "platform": "kuaishou",
+      "room_id": "3xxj85wt5rjj6bw",
+      "avatar": "https://p2-pro.a.yximgs.com/uhead/AB/2026/01/24/22/BMjAyNjAxMjQyMjI5MTlfNDgzNTY5Njk4MV8xX2hkODcwXzQxMg==_s.jpg",
+      "live_url": "https://live.kuaishou.com/u/3xxj85wt5rjj6bw"
+    },
+    {
+      "id": "douyin_588",
+      "name": "刚蛋",
+      "platform": "douyin",
+      "room_id": "MS4wLjABAAAArfkECYLM-3Jv-gxz22JhXJWTewslDdH_h5eEbvqtTqpSJ5PIhZrBm9VXm3CFKAso",
+      "avatar": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_b54e06b6b317a9c24d8715abb68cbe86~c5_300x300.jpeg?from=2956013662",
+      "live_url": "https://www.douyin.com/user/MS4wLjABAAAArfkECYLM-3Jv-gxz22JhXJWTewslDdH_h5eEbvqtTqpSJ5PIhZrBm9VXm3CFKAso"
+    },
+    {
+      "id": "douyin_251",
+      "name": "阿波波（李老八旗下）",
+      "platform": "douyin",
+      "room_id": "MS4wLjABAAAAzvbxktJn2k1m5bbnyRm4EfqgdzakmnijoFtx9BtCIMw1hjMARmmDIyPw206uT91u",
+      "avatar": "https://p3-pc.douyinpic.com/img/aweme-avatar/douyin-user-image-file_33a3dff09afafd237c102b4727966977~c5_300x300.jpeg?from=2956013662",
+      "live_url": "https://www.douyin.com/user/MS4wLjABAAAAzvbxktJn2k1m5bbnyRm4EfqgdzakmnijoFtx9BtCIMw1hjMARmmDIyPw206uT91u"
+    },
+    {
+      "id": "douyin_589",
+      "name": "花海",
+      "platform": "douyin",
+      "room_id": "MS4wLjABAAAAoHVWmqQFNbZh873murovu3MpsPjlPhn28sXmp7pjodY",
+      "avatar": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813c001_o042hDvHw7PTEAEfe4IZAeYiAAteCgA4nIY0Ag~c5_300x300.jpeg?from=2956013662",
+      "live_url": "https://www.douyin.com/user/MS4wLjABAAAAoHVWmqQFNbZh873murovu3MpsPjlPhn28sXmp7pjodY"
+    },
+    {
+      "id": "cc163_329",
+      "name": "户外石林",
+      "platform": "cc163",
+      "room_id": "716302563",
+      "avatar": "http://cc.fp.ps.netease.com/file/685c0265d2d642512535df70zRYraiO506",
+      "live_url": "https://cc.163.com/716302563"
+    },
+    {
+      "id": "douyin_593",
+      "name": "攀枝花小老虎",
+      "platform": "douyin",
+      "room_id": "MS4wLjABAAAAsLmPihHTF2SYA06vDZRWPqYcpfwD4JnBBJIz-oKGN4gJkvE3j-kY5ePg39xyZtlB",
+      "avatar": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_42fa6ce40f1df3d304f84bdf3c2d1b15~c5_300x300.jpeg?from=2956013662",
+      "live_url": "https://www.douyin.com/user/MS4wLjABAAAAsLmPihHTF2SYA06vDZRWPqYcpfwD4JnBBJIz-oKGN4gJkvE3j-kY5ePg39xyZtlB"
+    },
+    {
+      "id": "kuaishou_595",
+      "name": "热心胖哥在南宁",
+      "platform": "kuaishou",
+      "room_id": "3xzqndzdvnfbefe",
+      "avatar": "https://p4-pro.a.yximgs.com/uhead/AB/2026/01/24/08/BMjAyNjAxMjQwODE0MzBfMTk4MzU4NzI5M18yX2hkMTM4XzQ2NA==_s.jpg",
+      "live_url": "https://live.kuaishou.com/u/3xzqndzdvnfbefe"
+    },
+    {
+      "id": "kuaishou_592",
+      "name": "chimomo",
+      "platform": "kuaishou",
+      "room_id": "3xra5zhca8m3bne",
+      "avatar": "https://p2-pro.a.yximgs.com/uhead/AB/2025/11/09/13/BMjAyNTExMDkxMzQ1MTRfMzU3MDU4ODY3NV8xX2hkNTlfNjE1_s.jpg",
+      "live_url": "https://live.kuaishou.com/u/3xra5zhca8m3bne"
+    },
+    {
+      "id": "bilibili_31",
+      "name": "叫我眼神丶",
+      "platform": "bilibili",
+      "room_id": "14433523",
+      "avatar": "https://i2.hdslb.com/bfs/face/f3b80a071189a3b7e68a79457a5b28c9e9358faa.jpg",
+      "live_url": "https://live.bilibili.com/14433523"
+    },
+    {
+      "id": "bilibili_323",
+      "name": "Lisa的嘴",
+      "platform": "bilibili",
+      "room_id": "10274888",
+      "avatar": "https://i1.hdslb.com/bfs/face/744e24f32a4f7a64aab853c29a81ef7e7ec34c3e.jpg",
+      "live_url": "https://live.bilibili.com/10274888"
+    },
+    {
+      "id": "kuaishou_594",
+      "name": "车敏捷不敏捷",
+      "platform": "kuaishou",
+      "room_id": "3xz3nethytvkj46",
+      "avatar": "https://p2-pro.a.yximgs.com/uhead/AB/2025/04/25/19/BMjAyNTA0MjUxOTIyMDRfNDc1MTQ5MDE2OV8yX2hkODk0XzEz_s.jpg",
+      "live_url": "https://live.kuaishou.com/u/3xz3nethytvkj46"
+    },
+    {
+      "id": "douyin_240",
+      "name": "在花",
+      "platform": "douyin",
+      "room_id": "MS4wLjABAAAA0GvCJnbIpbxAmw3s3dr1_htxyyWDgLZXpSkdPWtoXhY",
+      "avatar": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_825012e77f358167562036b098d273b7~c5_300x300.jpeg?from=2956013662",
+      "live_url": "https://www.douyin.com/user/MS4wLjABAAAA0GvCJnbIpbxAmw3s3dr1_htxyyWDgLZXpSkdPWtoXhY"
+    },
+    {
+      "id": "douyin_249",
+      "name": "释我（生命力版）",
+      "platform": "douyin",
+      "room_id": "MS4wLjABAAAA4q3cQ222vyg7bdOPX_pD3R1n2Db3YqDkNl1kgWhdUlI",
+      "avatar": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-c9aec8xkvj_d8f5a4b88d084495970a2753a9b6cace~c5_300x300.jpeg?from=2956013662",
+      "live_url": "https://www.douyin.com/user/MS4wLjABAAAA4q3cQ222vyg7bdOPX_pD3R1n2Db3YqDkNl1kgWhdUlI"
+    },
+    {
+      "id": "douyin_83",
+      "name": "Tt.",
+      "platform": "douyin",
+      "room_id": "MS4wLjABAAAA6Hkrhql5VTG_cpU0qsAd6ZoNBMLFjOFM-3gRND3drrgJhk2_xtH3wEkQ1JtFBFO3",
+      "avatar": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_ca7aa79d26413c85eb2c715c142c3319~c5_300x300.jpeg?from=2956013662",
+      "live_url": "https://www.douyin.com/user/MS4wLjABAAAA6Hkrhql5VTG_cpU0qsAd6ZoNBMLFjOFM-3gRND3drrgJhk2_xtH3wEkQ1JtFBFO3"
+    },
+    {
+      "id": "douyin_591",
+      "name": "横店演员铁锤",
+      "platform": "douyin",
+      "room_id": "MS4wLjABAAAAvKPB4bHd5JHnEq-xeN4WFHIocaNMFg0leN55jBfMfeg",
+      "avatar": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_a3137c3afb1dcf6e5e36c4caa6773d42~c5_300x300.jpeg?from=2956013662",
+      "live_url": "https://www.douyin.com/user/MS4wLjABAAAAvKPB4bHd5JHnEq-xeN4WFHIocaNMFg0leN55jBfMfeg"
+    },
+    {
+      "id": "bilibili_554",
+      "name": "在花77",
+      "platform": "bilibili",
+      "room_id": "24525315",
+      "avatar": "https://i0.hdslb.com/bfs/face/528207846e6d81a2edf6dfe13a98afb668a15385.jpg",
+      "live_url": "https://live.bilibili.com/24525315"
+    },
+    {
+      "id": "bilibili_565",
+      "name": "suffer241",
+      "platform": "bilibili",
+      "room_id": "26427244",
+      "avatar": "https://i1.hdslb.com/bfs/face/de125ba93a28528663625d41d28eb0fa96735643.jpg",
+      "live_url": "https://live.bilibili.com/26427244"
+    },
+    {
+      "id": "douyin_339",
+      "name": "张明权333",
+      "platform": "douyin",
+      "room_id": "MS4wLjABAAAAcyGt7_sPYVFL1f-UhZUE4sEUbfujkXeTo5gMfeu2aUTowJYQTWc-F65vhJkJYobj",
+      "avatar": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_ad003f0e0e3dc18eb8092626c3b530d4~c5_300x300.jpeg?from=2956013662",
+      "live_url": "https://www.douyin.com/user/MS4wLjABAAAAcyGt7_sPYVFL1f-UhZUE4sEUbfujkXeTo5gMfeu2aUTowJYQTWc-F65vhJkJYobj"
+    },
+    {
+      "id": "douyu_368",
+      "name": "主播大飞牛肉",
+      "platform": "douyu",
+      "room_id": "676164",
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202204/cfeab8198451427fb0a4e4eac711e3a6_middle.jpg",
+      "live_url": "https://www.douyu.com/room/share/676164"
+    },
+    {
+      "id": "douyin_560",
+      "name": "石林抽象3号弟子zxc",
+      "platform": "douyin",
+      "room_id": "MS4wLjABAAAAsIWMNgSqGqU_H1WK9HWqLwnqQZdzT3C2lLs37x3Gp50ZN7oAQ3BIY4zvE6208zbt",
+      "avatar": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_5e94b3f464da7975d63f40c357aaf206~c5_300x300.jpeg?from=2956013662",
+      "live_url": "https://www.douyin.com/user/MS4wLjABAAAAsIWMNgSqGqU_H1WK9HWqLwnqQZdzT3C2lLs37x3Gp50ZN7oAQ3BIY4zvE6208zbt"
+    },
+    {
+      "id": "douyin_548",
+      "name": "菲尔道斯",
+      "platform": "douyin",
+      "room_id": "MS4wLjABAAAAvSZiAqhEA1b95anoXJaaAl8Sj-5kR_Ms4kHvm7aslW1N-y0QG4n_ah3F64fJpwkM",
+      "avatar": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_oomADu08LC9InAe9ZA9QABcAAOAngUbBfQ6nDC~c5_300x300.jpeg?from=2956013662",
+      "live_url": "https://www.douyin.com/user/MS4wLjABAAAAvSZiAqhEA1b95anoXJaaAl8Sj-5kR_Ms4kHvm7aslW1N-y0QG4n_ah3F64fJpwkM"
+    },
+    {
+      "id": "douyin_367",
+      "name": "逍遥李",
+      "platform": "douyin",
+      "room_id": "MS4wLjABAAAAheKu058qIzwoEWERuAM8UKl51yXEHnqsjb10EPliedM",
+      "avatar": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_7f34b5869406fde09019ab3167212f20~c5_300x300.jpeg?from=2956013662",
+      "live_url": "https://www.douyin.com/user/MS4wLjABAAAAheKu058qIzwoEWERuAM8UKl51yXEHnqsjb10EPliedM"
+    },
+    {
+      "id": "bilibili_553",
+      "name": "抽象李逍遥",
+      "platform": "bilibili",
+      "room_id": "1985119708",
+      "avatar": "https://i2.hdslb.com/bfs/face/bd47c487673dfbcd0c67be7e41508333857ac907.jpg",
+      "live_url": "https://live.bilibili.com/1985119708"
+    },
+    {
+      "id": "bilibili_61",
+      "name": "狗子彭",
+      "platform": "bilibili",
+      "room_id": "32562316",
+      "avatar": "https://i0.hdslb.com/bfs/face/f5ab1a8d70b975dbafb62806c7d9736c98e2449c.jpg",
+      "live_url": "https://live.bilibili.com/32562316"
+    },
+    {
+      "id": "douyin_375",
+      "name": "suffer",
+      "platform": "douyin",
+      "room_id": "MS4wLjABAAAA66M-EzLzKoyNyVy2e4pj_yVb3cgispzemV3vSSmbijq81wVHVB56ts9j7nJEESXw",
+      "avatar": "https://p3-pc.douyinpic.com/img/aweme-avatar/aweme_default_avatar.png~c5_300x300.jpeg?from=2956013662",
+      "live_url": "https://www.douyin.com/user/MS4wLjABAAAA66M-EzLzKoyNyVy2e4pj_yVb3cgispzemV3vSSmbijq81wVHVB56ts9j7nJEESXw"
+    },
+    {
+      "id": "bilibili_586",
+      "name": "滴滴滴-滴滴滴是大白",
+      "platform": "bilibili",
+      "room_id": "3707325",
+      "avatar": "https://i0.hdslb.com/bfs/face/f4cbf059033d18357853ca7d7c51f85991915b52.jpg",
+      "live_url": "https://live.bilibili.com/3707325"
+    },
+    {
+      "id": "cc163_343",
+      "name": "地上徒步",
+      "platform": "cc163",
+      "room_id": "716320510",
+      "avatar": "http://cc.res.netease.com/webcc/portrait/nsep/35_v1",
+      "live_url": "https://cc.163.com/716320510"
+    },
+    {
+      "id": "kuaishou_562",
+      "name": "牙老二",
+      "platform": "kuaishou",
+      "room_id": "3xsdmtaubyxfycm",
+      "avatar": "https://tx2.a.kwimgs.com/s1/i/def/head_m.png",
+      "live_url": "https://live.kuaishou.com/u/3xsdmtaubyxfycm"
+    },
+    {
+      "id": "bilibili_575",
+      "name": "阿波加油努力",
+      "platform": "bilibili",
+      "room_id": "1868870896",
+      "avatar": "https://i1.hdslb.com/bfs/face/90d75bf0f74feb1279de1516753378ceb9eaf5a3.jpg",
+      "live_url": "https://live.bilibili.com/1868870896"
+    },
+    {
+      "id": "bilibili_351",
+      "name": "抽象的唐彦祖",
+      "platform": "bilibili",
+      "room_id": "25191610",
+      "avatar": "https://i1.hdslb.com/bfs/face/578a0e078417c145ff3d19920926dd66fb478282.jpg",
+      "live_url": "https://live.bilibili.com/25191610"
+    },
+    {
+      "id": "bilibili_494",
+      "name": "锚科动物",
+      "platform": "bilibili",
+      "room_id": "5503838",
+      "avatar": "https://i0.hdslb.com/bfs/face/8beef56de48b6a0a322eca45efa4d89baf56f27a.jpg",
+      "live_url": "https://live.bilibili.com/5503838"
+    }
+  ]
+}

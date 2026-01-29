@@ -1,0 +1,5 @@
+{
+  "scan_interval_minutes": 5,
+  "platform_delay_min_seconds": 5,
+  "platform_delay_max_seconds": 20
+}
