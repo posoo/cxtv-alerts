@@ -57,7 +57,7 @@ function renderStreamers() {
                     <div class="stream-title" title="${escapeHtml(s.title || '')}">${escapeHtml(s.title || '无标题')}</div>
                     <div class="stream-meta">
                         <span class="viewer-count">👁 ${formatNumber(s.viewer_count || 0)}</span>
-                        <span>${s.start_time ? '开播: ' + s.start_time.split(' ')[1] : ''}</span>
+                        <span>${s.start_time ? '开播: ' + parseUTCTimestamp(s.start_time).toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit' }) : ''}</span>
                     </div>
                 ` : ''}
                 <div class="card-footer">
@@ -74,16 +74,24 @@ function renderStreamers() {
     `}).join('');
 }
 
+// Parse UTC timestamp string and convert to local Date object
+function parseUTCTimestamp(timeStr) {
+    if (!timeStr) return null;
+    // Append 'Z' to indicate UTC timezone
+    return new Date(timeStr.replace(' ', 'T') + 'Z');
+}
+
 function formatQueryTime(timeStr) {
     if (!timeStr) return '未查询';
-    const date = new Date(timeStr.replace(' ', 'T'));
+    const date = parseUTCTimestamp(timeStr);
     const now = new Date();
     const diff = Math.floor((now - date) / 1000);
 
     if (diff < 60) return `${diff}秒前`;
     if (diff < 3600) return `${Math.floor(diff / 60)}分钟前`;
     if (diff < 86400) return `${Math.floor(diff / 3600)}小时前`;
-    return timeStr.split(' ')[1]; // Show time only
+    // Convert to local time for display
+    return date.toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit' });
 }
 
 function updateStats() {
@@ -139,7 +147,7 @@ async function showStats(id, name) {
                     <div class="label">本月开播</div>
                 </div>
             </div>
-            ${s.last_live_time ? `<p style="color: var(--text-secondary); margin-bottom: 1rem;">上次开播: ${s.last_live_time}</p>` : ''}
+            ${s.last_live_time ? `<p style="color: var(--text-secondary); margin-bottom: 1rem;">上次开播时间: ${parseUTCTimestamp(s.last_live_time).toLocaleString('zh-CN', { month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' })}</p>` : ''}
             <div class="history-section">
                 <h3>近期开播记录</h3>
                 ${h.length > 0 ? `
@@ -191,9 +199,9 @@ function formatDuration(seconds) {
     return `${minutes}分钟`;
 }
 
-function formatDateTime(isoString) {
-    if (!isoString) return '';
-    const date = new Date(isoString);
+function formatDateTime(timeStr) {
+    if (!timeStr) return '';
+    const date = parseUTCTimestamp(timeStr);
     return date.toLocaleString('zh-CN', {
         month: '2-digit',
         day: '2-digit',
